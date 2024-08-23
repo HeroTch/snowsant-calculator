@@ -146,7 +146,7 @@ def average_with_weight(pairs):
 
 import datetime
 
-end_time = datetime.datetime(2023, 8, 22, 4, 0)
+end_time = datetime.datetime(2024, 9, 1, 4, 0)
 now_time = datetime.datetime.now()
 countdown = (end_time - now_time).days + 1
 
